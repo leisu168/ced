@@ -1,0 +1,32 @@
+body{
+	width: 100%;
+	text-align: center;
+	margin: 5px auto;
+	padding: 0px;
+}
+h2{
+	padding: 10px;
+	padding-top: 50px;
+}
+p{
+	padding: 10px;
+}
+#id{
+	width: 260px;
+	height: 20px;
+	margin-right: 15px;
+	box-shadow: 0 0 10px #9fc5e8;
+}
+#button{
+	height: 26px;
+	width: 50px;
+	box-shadow: 0 0 10px #9fc5e8;
+}
+#link,
+#link:hover,
+#link:visited{
+	color: #e30808;
+}
+footer{
+	margin-top: 100px;
+}
